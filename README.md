@@ -1,2 +1,2 @@
-# VBA_Project
+# VBA
 Some project using VBA 
